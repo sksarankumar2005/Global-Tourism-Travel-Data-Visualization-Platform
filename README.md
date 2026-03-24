@@ -71,7 +71,7 @@ This platform helps analyze global tourism data through two interactive dashboar
 
 ## 👤 Author
 
-**Saran Kumar S**  
+**Sarankumar S**  
 GitHub: [@sksarankumar2005](https://github.com/sksarankumar2005)
 
 ---
