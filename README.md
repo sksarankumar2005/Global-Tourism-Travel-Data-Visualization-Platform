@@ -25,21 +25,20 @@ This platform helps analyze global tourism data through two interactive dashboar
 ### Dashboard 1 — Stakeholder Intelligence
 > For tourism boards, policymakers, and travel agencies
 
-- Global arrivals & receipts trend (2016–2025)
+
 - Top countries by tourist arrivals (Filled Map)
 - Tourism GDP impact and profit/loss analysis
-- Key influencers driving tourism receipts (AI Visual)
-- Decomposition tree for drill-down analysis
-- Seasonal holiday patterns heatmap
+
+
 
 ### Dashboard 2 — Traveler Insights
 > For individual travelers and destination researchers
 
 - Safety, health & pollution index by country
+- - Global arrivals (2016–2025)
 - Best seasons to visit (holiday density)
 - Hotel rates and average expenditure comparison
 - Visa-free access percentage by country
-- Air connectivity treemap
 - Country scorecard — safety, cost, popularity
 
 ---
